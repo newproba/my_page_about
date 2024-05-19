@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2022/11/15/11/24/wheat-7593779_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.one{ background-color: rgba(0, 0, 255, 0.384);
+color: yellowgreen;
+text-align: center;
+font-size: 100px;
+margin-top: 300px;
+ }
+  
+ .two{ background-color: rgba(0, 0, 255, 0.384);
+    color: yellowgreen;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 5px;
+     }
